@@ -1,0 +1,7 @@
+Crearemos la cuadra que queramos en relacion a la divicion que hice , la idea es que sea equitativo , 
+igual la idea es para que nunca trabajemos sobre el mismo archivo , 
+el modelo que no tiene nombre es para hacer prueba y ver que efectivamente nuestras entidades caen en donde deben de caer.
+Y ese sera el que se mande , trabajaremos muy similar a cuando hicimos un monton de cuadras la diferencia es que hora solo es una.
+1 .- Axel 
+4 .- Axel
+8 .- Axel
